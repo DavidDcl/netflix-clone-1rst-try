@@ -7,6 +7,8 @@
 .pnp.js
 ./build
 .firebase
+request.js
+axios.js
 # testing
 /coverage
 
